@@ -1,6 +1,3 @@
-Example code and arduino part code for the VR headset
-
-
 # VR-Headset
 
 
