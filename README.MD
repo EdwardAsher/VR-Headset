@@ -9,10 +9,6 @@ We created a VR Headset & Controller. The two devices are composed of many ardui
 
 Install the Arduino IDE and Unity Game Engine
 
-```
-Give examples
-```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
@@ -44,6 +40,23 @@ Run the executible with the headset or Run it through Unity.
 
 Please read [CONTRIBUTION.md](https://github.com/EdwardAsher/VR-Headset/blob/master/CONTRIBUTION.MD) for details on our code of conduct, and the process for submitting pull requests to us.
 
+## Meet the Team
+
+  ## Brian D. -
+    * 
+    *
+  ## Edward R. - 
+    * 
+    *
+  ## Jonel A. -
+    * 
+    *
+  ## Moin V. - 
+    * 
+    *
+
+
+
 ## Versioning
 
 Version 1.2
@@ -51,6 +64,6 @@ Version 1.2
 ## Acknowledgments
 
 * Maxime Coutté
-* Relativ
+* Relativ-VR
 * WRMHL
 * FastVR
