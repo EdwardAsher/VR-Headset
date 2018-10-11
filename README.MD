@@ -42,16 +42,16 @@ Please read [CONTRIBUTION.md](https://github.com/EdwardAsher/VR-Headset/blob/mas
 
 ## Meet the Team
 
-  ## Brian D. -
+* Brian D. -
     * 
     *
-  ## Edward R. - 
+* Edward R. - 
     * 
     *
-  ## Jonel A. -
+* Jonel A. -
     * 
     *
-  ## Moin V. - 
+* Moin V. - 
     * 
     *
 
