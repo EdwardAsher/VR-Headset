@@ -41,20 +41,13 @@ Run the executible with the headset or Run it through Unity.
 Please read [CONTRIBUTION.md](https://github.com/EdwardAsher/VR-Headset/blob/master/CONTRIBUTION.MD) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Meet the Team
+* Brian D. - Team Lead who lead the project and helped out each individual members with their tasks
 
-* Brian D. -
-    * 
-    *
-* Edward R. - 
-    * 
-    *
-* Jonel A. -
-    * 
-    *
-* Moin V. - 
-    * 
-    *
+* Edward R. - Team Member who combined the VR Headset & VR Controller into Unity
 
+* Jonel A. - Team Member who helped create the VR Controller 
+
+* Moin V. - Team Member who helped create the VR Controller and show a Visual Orientation of the Headset
 
 
 ## Versioning
